@@ -1,0 +1,12 @@
+Filled container :=
+Container contains 10 elements.
+0: It is Bird: name = tbbmgtabodipuw, weight = 11, flyRelationship = true, codes / weight = 136.273
+1: It is Fish: name = fruajxgdqxytnt, weight = 19, place = LAKE, codes / weight = 81.8421
+2: It is Beast: name = jmdsujatjpuoyi, weight = 3, type = INSECTIVORES, codes / weight = 512.667
+3: It is Fish: name = qgcgrqkeqmnrae, weight = 8, place = LAKE, codes / weight = 187.125
+4: It is Fish: name = mqixsbewamesav, weight = 9, place = SEA, codes / weight = 168.556
+5: It is Beast: name = whkpfcqdadmwwl, weight = 19, type = PREDATORS, codes / weight = 79.3684
+6: It is Beast: name = enyssxtbiyxvkf, weight = 5, type = PREDATORS, codes / weight = 313.8
+7: It is Beast: name = ltcbhkddrborei, weight = 20, type = PREDATORS, codes / weight = 73.75
+8: It is Fish: name = rhysubxgfmdjux, weight = 18, place = RIVER, codes / weight = 85.8889
+9: It is Beast: name = xqfkyyijuukmys, weight = 20, type = INSECTIVORES, codes / weight = 79.05

@@ -1,0 +1,22 @@
+Sorted container :=
+Container contains 20 elements.
+0: It is Fish: name = emkiagilioqmpf, weight = 3, place = LAKE, codes / weight = 495.667
+1: It is Beast: name = pipfaqalsdxhwl, weight = 6, type = INSECTIVORES, codes / weight = 252
+2: It is Fish: name = fioexskenhldsk, weight = 12, place = SEA, codes / weight = 125.5
+3: It is Bird: name = mjlnesqnishluh, weight = 13, flyRelationship = true, codes / weight = 117.308
+4: It is Beast: name = vfcswjidrdpnud, weight = 13, type = HERBIVORES, codes / weight = 116.692
+5: It is Fish: name = glsjjhqatdryws, weight = 15, place = LAKE, codes / weight = 102.467
+6: It is Beast: name = nqfbxcbycjsiyu, weight = 15, type = HERBIVORES, codes / weight = 101.6
+7: It is Beast: name = icqriljppiaunm, weight = 15, type = INSECTIVORES, codes / weight = 100.8
+8: It is Bird: name = wqladasguphibf, weight = 16, flyRelationship = true, codes / weight = 93.125
+9: It is Bird: name = yxfluwwsryofsa, weight = 19, flyRelationship = false, codes / weight = 83.2105
+10: It is Fish: name = gvivaohfjpxosy, weight = 19, place = RIVER, codes / weight = 81.2105
+11: It is Fish: name = kswiimehadfufv, weight = 19, place = RIVER, codes / weight = 79
+12: It is Bird: name = uxxhvuxyfuxrtn, weight = 21, flyRelationship = true, codes / weight = 76.9524
+13: It is Fish: name = yxxrpswbyxkptx, weight = 21, place = RIVER, codes / weight = 76.9048
+14: It is Bird: name = aulfjtuqmmibph, weight = 20, flyRelationship = true, codes / weight = 75.65
+15: It is Beast: name = qaryxaknxymmsn, weight = 21, type = PREDATORS, codes / weight = 74.4286
+16: It is Fish: name = hwuthuoagyrmsf, weight = 22, place = RIVER, codes / weight = 70.4091
+17: It is Beast: name = kyhnrvttitgapm, weight = 23, type = INSECTIVORES, codes / weight = 67.3043
+18: It is Beast: name = iolauulrpuvhff, weight = 23, type = INSECTIVORES, codes / weight = 66.6087
+19: It is Fish: name = larukwocgdqqdo, weight = 23, place = RIVER, codes / weight = 65.7391
