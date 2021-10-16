@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/efimverzakov/CLionProjects/computer_systems/task_2/code/animal.h
+fstream
+-
+rnd.h
+/Users/efimverzakov/CLionProjects/computer_systems/task_2/code/rnd.h
+constants.h
+/Users/efimverzakov/CLionProjects/computer_systems/task_2/code/constants.h
+
+/Users/efimverzakov/CLionProjects/computer_systems/task_2/code/constants.h
+
+/Users/efimverzakov/CLionProjects/computer_systems/task_2/code/container.h
+animal.h
+/Users/efimverzakov/CLionProjects/computer_systems/task_2/code/animal.h
+
+/Users/efimverzakov/CLionProjects/computer_systems/task_2/code/main.cpp
+iostream
+-
+container.h
+/Users/efimverzakov/CLionProjects/computer_systems/task_2/code/container.h
+
+/Users/efimverzakov/CLionProjects/computer_systems/task_2/code/rnd.h
+cstdlib
+-
+ctime
+-
+
