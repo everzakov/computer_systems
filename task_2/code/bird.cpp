@@ -29,5 +29,5 @@ void Bird::Out(std::ofstream &ofst) {
 }
 
 void Bird::OutInFile(std::ofstream &ofst) {
-    ofst<<"beast\n"<<this->name<<"\n"<<this->weight<<"\n"<<this->flyRelationship<<"\n";
+    ofst<<"\nbird\n"<<this->name<<"\n"<<this->weight<<"\n"<<this->flyRelationship;
 }

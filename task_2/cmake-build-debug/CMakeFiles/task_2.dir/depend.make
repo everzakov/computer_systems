@@ -34,8 +34,11 @@ CMakeFiles/task_2.dir/code/fish.cpp.o: ../code/fish.h
 CMakeFiles/task_2.dir/code/fish.cpp.o: ../code/rnd.h
 
 CMakeFiles/task_2.dir/code/main.cpp.o: ../code/animal.h
+CMakeFiles/task_2.dir/code/main.cpp.o: ../code/beast.h
+CMakeFiles/task_2.dir/code/main.cpp.o: ../code/bird.h
 CMakeFiles/task_2.dir/code/main.cpp.o: ../code/constants.h
 CMakeFiles/task_2.dir/code/main.cpp.o: ../code/container.h
+CMakeFiles/task_2.dir/code/main.cpp.o: ../code/fish.h
 CMakeFiles/task_2.dir/code/main.cpp.o: ../code/main.cpp
 CMakeFiles/task_2.dir/code/main.cpp.o: ../code/rnd.h
 

@@ -2,6 +2,7 @@
 // Created by Efim Verzakov on 16.10.2021.
 //
 
+#include <iostream>
 #include "container.h"
 
 //------------------------------------------------------------------------------
@@ -26,9 +27,12 @@ void Container::Clear() {
 //------------------------------------------------------------------------------
 // Ввод содержимого контейнера из указанного потока
 void Container::In(std::ifstream &ifst) {
-    while(!ifst.eof()) {
-        if((cont[len] = Animal::StaticIn(ifst)) != 0) {
+    int n = 0;
+    ifst >> n;
+    while (!ifst.eof() && n > 0) {
+        if ((cont[len] = Animal::StaticIn(ifst)) != 0) {
             len++;
+            n--;
         }
     }
 }
@@ -54,7 +58,16 @@ void Container::Out(std::ofstream &ofst) {
 }
 
 //------------------------------------------------------------------------------
-// Вычисление суммы периметров всех фигур в контейнере
+// Вывод содержимого контейнера в указанный поток
+void Container::OutInFile(std::ofstream &ofst) {
+    ofst << this->len;
+    for(int i = 0; i < len; i++) {
+        this->cont[i]->OutInFile(ofst);
+    }
+}
+
+//------------------------------------------------------------------------------
+// Вычисление суммы периметров всех животных в контейнере
 double Container::CodesDividedByWeight() {
     double sum = 0.0;
     for(int i = 0; i < len; i++) {

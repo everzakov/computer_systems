@@ -14,9 +14,21 @@ rnd.h
 constants.h
 /Users/efimverzakov/CLionProjects/computer_systems/task_2/code/constants.h
 
+/Users/efimverzakov/CLionProjects/computer_systems/task_2/code/beast.h
+animal.h
+/Users/efimverzakov/CLionProjects/computer_systems/task_2/code/animal.h
+
+/Users/efimverzakov/CLionProjects/computer_systems/task_2/code/bird.h
+animal.h
+/Users/efimverzakov/CLionProjects/computer_systems/task_2/code/animal.h
+
 /Users/efimverzakov/CLionProjects/computer_systems/task_2/code/constants.h
 
 /Users/efimverzakov/CLionProjects/computer_systems/task_2/code/container.h
+animal.h
+/Users/efimverzakov/CLionProjects/computer_systems/task_2/code/animal.h
+
+/Users/efimverzakov/CLionProjects/computer_systems/task_2/code/fish.h
 animal.h
 /Users/efimverzakov/CLionProjects/computer_systems/task_2/code/animal.h
 
@@ -25,6 +37,16 @@ iostream
 -
 container.h
 /Users/efimverzakov/CLionProjects/computer_systems/task_2/code/container.h
+animal.h
+/Users/efimverzakov/CLionProjects/computer_systems/task_2/code/animal.h
+beast.h
+/Users/efimverzakov/CLionProjects/computer_systems/task_2/code/beast.h
+bird.h
+/Users/efimverzakov/CLionProjects/computer_systems/task_2/code/bird.h
+fish.h
+/Users/efimverzakov/CLionProjects/computer_systems/task_2/code/fish.h
+rnd.h
+/Users/efimverzakov/CLionProjects/computer_systems/task_2/code/rnd.h
 
 /Users/efimverzakov/CLionProjects/computer_systems/task_2/code/rnd.h
 cstdlib

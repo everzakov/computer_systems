@@ -1,5 +1,10 @@
 #include <iostream>
 #include "container.h"
+#include "animal.h"
+#include "beast.h"
+#include "bird.h"
+#include "fish.h"
+#include "rnd.h"
 
 using namespace std;
 void errMessage1() {

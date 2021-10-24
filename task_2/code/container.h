@@ -16,10 +16,13 @@ public:
     void InRnd(int size);
     // Вывод содержимого контейнера в указанный поток
     void Out(std::ofstream &ofst);
+    // Вывод содержимого контейнера в файл
+    void OutInFile(std::ofstream &ofst);
     // Вычисление целевой функции для всех животных в контейнере
     double CodesDividedByWeight();
     // Сортировка контейнера
     void Sort();
+
 private:
     void Clear();    // Очистка контейнера от данных
     int len; // текущая длина

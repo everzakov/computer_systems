@@ -2,6 +2,7 @@
 // Created by Efim Verzakov on 16.10.2021.
 //
 
+
 #include "beast.h"
 
 void Beast::In(std::ifstream &ifst) {
@@ -46,5 +47,5 @@ void Beast::Out(std::ofstream &ofst) {
 }
 
 void Beast::OutInFile(std::ofstream &ofst) {
-    ofst<<"beast\n"<<this->name<<"\n"<<this->weight<<"\n"<<this->t<<"\n";
+    ofst<<"\nbeast\n"<<this->name<<"\n"<<this->weight<<"\n"<<this->t;
 }

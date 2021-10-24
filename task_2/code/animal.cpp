@@ -13,7 +13,7 @@ Random Animal::rnd3(1,3);
 Random Animal::rnd26(1,26);
 
 Animal* Animal::StaticIn(std::ifstream &ifst) {
-    char type[5];
+    char type[MAX_NAME_LEN];
     ifst>>type;
     Animal* an = nullptr;
     if (!strcmp(type, "beast")){

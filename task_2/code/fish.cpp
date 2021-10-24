@@ -46,5 +46,5 @@ void Fish::Out(std::ofstream &ofst) {
 }
 
 void Fish::OutInFile(std::ofstream &ofst) {
-    ofst<<"fish\n"<<this->name<<"\n"<<this->weight<<"\n"<<this->p<<"\n";
+    ofst<<"\nfish\n"<<this->name<<"\n"<<this->weight<<"\n"<<this->p;
 }
