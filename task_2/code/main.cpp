@@ -29,7 +29,8 @@ int main(int argc, char* argv[]) {
         errMessage1();
         return 1;
     }
-
+    int n = 0;
+    std::cin>>n;
     cout << "Start"<< endl;
     Container c;
 

@@ -24,6 +24,12 @@ animal.h
 
 /Users/efimverzakov/CLionProjects/computer_systems/task_2/code/constants.h
 
+/Users/efimverzakov/CLionProjects/computer_systems/task_2/code/container.cpp
+iostream
+-
+container.h
+/Users/efimverzakov/CLionProjects/computer_systems/task_2/code/container.h
+
 /Users/efimverzakov/CLionProjects/computer_systems/task_2/code/container.h
 animal.h
 /Users/efimverzakov/CLionProjects/computer_systems/task_2/code/animal.h

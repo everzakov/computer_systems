@@ -1,0 +1,22 @@
+Container is store 20 animals:
+0 Fish: name: pvhekwpswmeaeiy, weight: 2, place: SEA, codes / weight: 820.5
+1 Beast: name: ijkrsckiqemmtcy, weight: 2, type: INSECTIVORES, codes / weight: 813.0
+2 Bird: name: yodeiflqnythcaj, weight: 5, flyRelationship: True, codes / weight: 322.8
+3 Fish: name: swgxpthwuzhabxf, weight: 7, place: RIVER, codes / weight: 238.28571428571428
+4 Bird: name: jgjbjkbtjdmeezt, weight: 7, flyRelationship: True, codes / weight: 227.85714285714286
+5 Beast: name: dxiqmbnwptzwhig, weight: 9, type: PREDATORS, codes / weight: 183.88888888888889
+6 Fish: name: bkxkxooorkhnpwh, weight: 11, place: LAKE, codes / weight: 150.45454545454547
+7 Bird: name: sxioyofppewgczi, weight: 12, flyRelationship: False, codes / weight: 138.16666666666666
+8 Bird: name: cjhwpdzmrsydidw, weight: 12, flyRelationship: False, codes / weight: 137.08333333333334
+9 Fish: name: takxieylemajoim, weight: 12, place: SEA, codes / weight: 134.41666666666666
+10 Fish: name: ezcecndjnizsnrz, weight: 14, place: RIVER, codes / weight: 116.85714285714286
+11 Fish: name: nrqldjbltgvejcp, weight: 16, place: LAKE, codes / weight: 100.75
+12 Beast: name: iplszvwuiheohrs, weight: 17, type: HERBIVORES, codes / weight: 98.23529411764706
+13 Bird: name: lunmbpjlrpwfuem, weight: 18, flyRelationship: False, codes / weight: 91.22222222222223
+14 Bird: name: rmnafsoiamduozw, weight: 18, flyRelationship: False, codes / weight: 91.0
+15 Beast: name: nfikuwgrdgmbetw, weight: 23, type: INSECTIVORES, codes / weight: 70.56521739130434
+16 Bird: name: fgopxpxlkjeqajj, weight: 24, flyRelationship: False, codes / weight: 67.66666666666667
+17 Bird: name: mszmcttupiinzzt, weight: 27, flyRelationship: False, codes / weight: 62.77777777777778
+18 Beast: name: ybusffthigintgm, weight: 26, type: HERBIVORES, codes / weight: 62.53846153846154
+19 Beast: name: xiljssnrqwifjba, weight: 27, type: HERBIVORES, codes / weight: 60.48148148148148
+Summa of codes / weights  = 3988.547222205661
