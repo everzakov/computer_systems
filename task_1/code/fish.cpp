@@ -5,6 +5,7 @@
 #include "fish.h"
 #include "constants.h"
 #include "rnd.h"
+#include <cstring>
 
 // Ввод параметров рыбы из потока
 void In(fish &f, std::ifstream &ifst) {

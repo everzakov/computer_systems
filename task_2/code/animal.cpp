@@ -7,6 +7,7 @@
 #include "beast.h"
 #include "fish.h"
 #include "bird.h"
+#include <cstring>
 
 Random Animal::rnd2(1,2);
 Random Animal::rnd3(1,3);

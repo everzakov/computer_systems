@@ -5,6 +5,7 @@
 #include "bird.h"
 #include "constants.h"
 #include "rnd.h"
+#include "string.h"
 
 // Ввод параметров птицы из потока
 void In(bird &b, std::ifstream &ifst) {

@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/efimverzakov/CLionProjects/computer_systems/task_4/task_4_c/code/extdata.h
+
+/Users/efimverzakov/CLionProjects/computer_systems/task_4/task_4_c/code/input.c
+stdio.h
+/Users/efimverzakov/CLionProjects/computer_systems/task_4/task_4_c/code/stdio.h
+extdata.h
+/Users/efimverzakov/CLionProjects/computer_systems/task_4/task_4_c/code/extdata.h
+

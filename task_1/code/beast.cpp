@@ -5,6 +5,7 @@
 #include "beast.h"
 #include "constants.h"
 #include "rnd.h"
+#include <cstring>
 
 // Ввод параметров зверей из потока
 void In(beast &b, std::ifstream &ifst) {

@@ -1,0 +1,11 @@
+#!/bin/bash
+
+nasm -f macho64 --prefix _ code/output.asm
+nasm -f macho64 --prefix _ code/function.asm
+gcc -g -o task code/main.c code/input.c code/inrnd.c code/outputC.c code/function.o code/output.o
+time ./task -n 10000 ./tests/rnd01_out_01.txt ./tests/rnd01_out_02.txt
+time ./task -f ./tests/test01.txt ./tests/test01_out_01.txt ./tests/test01_out_02.txt
+time ./task -f ./tests/test02.txt ./tests/test02_out_01.txt ./tests/test02_out_02.txt
+time ./task -f ./tests/test03.txt ./tests/test03_out_01.txt ./tests/test03_out_02.txt
+time ./task -f ./tests/test04.txt ./tests/test04_out_01.txt ./tests/test04_out_02.txt
+time ./task -f ./tests/test05.txt ./tests/test05_out_01.txt ./tests/test05_out_02.txt

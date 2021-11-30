@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/cc -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/task_4_c.dir/code/input.c.o CMakeFiles/task_4_c.dir/code/inrnd.c.o CMakeFiles/task_4_c.dir/code/output.c.o CMakeFiles/task_4_c.dir/code/main.c.o  -o ../bin/task_4_c 

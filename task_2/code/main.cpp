@@ -5,7 +5,7 @@
 #include "bird.h"
 #include "fish.h"
 #include "rnd.h"
-
+#include <cstring>
 using namespace std;
 void errMessage1() {
     cout << "incorrect command line!\n"
